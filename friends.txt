@@ -1,0 +1,13 @@
+
+
+"friend name"~location
+suhana~machilipatnam
+nasrin~machilipatnam
+sameera~akulmanad
+naziya~akulmanad
+farzana~akulmanad
+sameena~padana
+rameeza~akulmanad
+parveen~machilipatnam
+nakilla~akulmanad
+madhiya~machilipatnam
